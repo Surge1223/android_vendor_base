@@ -30,7 +30,7 @@ PRODUCT_PACKAGES += \
 
 # Busybox
 PRODUCT_PACKAGES += \
-    bbx \
+    busybox \
     git
 
 # SuperSU FTW
